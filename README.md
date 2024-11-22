@@ -54,6 +54,7 @@ Since [walk-these-ways](https://github.com/Improbable-AI/walk-these-ways) implem
 Clone LCM repository to any location (where you usually place installed softwares), then install LCM:
 ```bash
 git clone https://github.com/lcm-proj/lcm.git
+cd lcm
 mkdir build
 cd build
 cmake ..
